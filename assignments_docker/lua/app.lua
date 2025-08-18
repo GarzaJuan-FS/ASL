@@ -1,1 +1,0 @@
-print("Hello ASL! - " .. os.date("%m/%d/%Y %H:%M"))
